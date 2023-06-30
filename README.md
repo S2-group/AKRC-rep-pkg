@@ -1,7 +1,7 @@
 # Carving Sustainability into Architecture Knowledge Practice
-This repository is a companion page for the following research:
+This repository is a companion page for the following research accepted at 17th European Conference on Software Architecture (ECSA) - Industry Program:
 
-_Carving Sustainability into Architecture Knowledge Practice. (submitted for revision)_
+_Carving Sustainability into Architecture Knowledge Practice. (accepted for publication)_
 
 Quick Links
 ---------------
